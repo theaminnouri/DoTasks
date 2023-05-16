@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Do Tasks</string>
+    <string name="category_screen_title">Category</string>
+    <string name="tasks_screen_title">Tasks</string>
+    <string name="account_screen_title">Account</string>
 </resources>
